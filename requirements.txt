@@ -9,6 +9,6 @@ requests==2.24.0
 toml==0.10.1
 urllib3==1.26.5
 web-cache==1.1.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 speechrecognition==3.8.1
 PyAudio==0.2.11
